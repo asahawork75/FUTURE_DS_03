@@ -178,7 +178,7 @@ The Power BI dashboard (`Bank_Data_Analysis.pbix`) contains **4 pages**:
 
 Shows the complete customer journey from total contacts down to conversions. The funnel chart makes drop-off visible at each stage. KPI cards highlight the overall conversion rate and total customers converted.
 
-![Funnel Overview](01_funnel_overview)
+[Funnel Overview](01_funnel_overview)
 
 ---
 
